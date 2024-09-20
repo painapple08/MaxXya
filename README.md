@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://images.alphacoders.com/632/632525.png');
+     --background: url('https://images.alphacoderhttps://media.discordapp.net/attachments/1137088934938157057/1285987033067552868/IMG_4337.png?ex=66ee3e81&is=66eced01&hm=c741fd53e06370120275608dc758fe9dab6b22e75266add0897a09ea3938fcde&=&format=webp&quality=lossless&width=242&height=314s.com/632/632525.png');
      --activetext-colour: white;
  
      --primary1-colour: red;
